@@ -1,6 +1,6 @@
-# TODO: スライドのタイトル
+# RubyKaigi 2023 followup
 
-TODO: スライドの説明
+https://rhc.connpass.com/event/288535/
 
 ## 作者向け
 
